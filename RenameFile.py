@@ -5,7 +5,7 @@ import cv2
 
 class MP4Reverser:
     global filename 
-    filename = 'FILENAMEHERE'  # replace your filename here! DO NOT INCLUDE THE EXTENSION
+    filename = 'FILENAMEHERE'  # replace your filename here! DO NOT INCLUDE THE EXTENSION test2
     # DO NOT INCLUDE THE EXTENSION
     def __init__(self):
         pass
